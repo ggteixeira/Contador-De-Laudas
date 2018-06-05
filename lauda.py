@@ -11,3 +11,5 @@ print("Preço estipulado: R$ %2.2f" %(price))
 
 # Outra evolução é criar uma caixa
 # Pro usuário poder ajustar o valor cobrado por lauda.
+
+# Teste de commit
