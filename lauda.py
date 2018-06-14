@@ -4,7 +4,8 @@ val_lauda = 4
 
 price = ((num_char / tam_lauda) * val_lauda)
 
-print("Preço estipulado: R$ %2.2f" %(price))
+# print("Preço estipulado: R$ %2.2f" %(price))
+print(f"Preço estipulado: R$ {price:.2f}")
 
 # Uma evolução do programa é criar uma caixa
 # Pro usuário poder ajustar o tamanho da lauda.
